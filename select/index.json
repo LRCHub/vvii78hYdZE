@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "3%と私。",
+  "base_artist": "りりあ。",
+  "createdAt": "2025-12-02T08:39:44.572704Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "3%と私。",
+      "artist": "りりあ。",
+      "has_synced": false,
+      "path": "select/pl_01_3_と私。_りりあ。.txt"
+    }
+  ]
+}
